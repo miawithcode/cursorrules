@@ -1,2 +1,2 @@
 # cursorrules
-.cursorrules file project built with Next.js, Tailwind CSS and shadcn/ui
+.cursorrules file for project built with Next.js, Tailwind CSS and shadcn/ui
